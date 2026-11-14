@@ -32,3 +32,5 @@ allow MIDI.
 page changes: [spinkham/Felucca, branch emu-midi-knobs](https://github.com/spinkham/Felucca/tree/emu-midi-knobs), merged
 onto 1.5.1.
 GPL-3.0 (see LICENSE); the DotGothic16 font is SIL OFL 1.1 (fonts/OFL.txt).
+
+You can also try Felucca Try in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
